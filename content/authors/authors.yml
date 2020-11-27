@@ -1,0 +1,6 @@
+- name: bokehboy
+  bio: I am the Author
+  avatar: ./avatars/IMG_1086.jpeg
+  featured: false
+  social:
+    - url: https://github.com/
